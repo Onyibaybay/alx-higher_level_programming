@@ -1,4 +1,3 @@
-1-write_file.py
 #!/usr/bin/python3
 # 6-from_json_string.py
 """Defines a JSON-to-object function."""
